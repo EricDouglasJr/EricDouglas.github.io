@@ -1,1 +1,1 @@
-# EricDouglas.github.io
+# EricDouglasJr.github.io
