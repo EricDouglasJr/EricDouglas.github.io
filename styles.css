@@ -1,6 +1,6 @@
 body
 {
-    background: black;
+    background: #252525;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -9,7 +9,7 @@ body
     display: flex;
     padding: 10px;
     margin: 10px;
-    background: yellow;
+    background: #fdd947;
     border-radius: 7px;
 }
 
@@ -21,27 +21,27 @@ body
 }
 .assignment img:hover
 {
-    color:yellow;
+    color:#444444;
 }
 
 h1
 {
-    color: white;
+    color: #fdd947;
     text-align: center;
 }
 
 h1:hover
 {
-    color:yellow;
+    color:#ffffff;
 }
 
 a
 {
     text-decoration: none;
-    color: white;
+    color: #444444;
 }
 
 a:hover
 {
-    color: yellow;
+    color: #ffffff;
 }
