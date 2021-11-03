@@ -10,21 +10,38 @@ body
     padding: 10px;
     margin: 10px;
     background: yellow;
+    border-radius: 7px;
 }
 
 .assignment img
 {
     width: 200px;
     margin: 10px;
+    border: 2px solid white;
+}
+.assignment img:hover
+{
+    color:yellow;
 }
 
 h1
 {
-    color: yellow;
+    color: white;
     text-align: center;
+}
+
+h1:hover
+{
+    color:yellow;
 }
 
 a
 {
     text-decoration: none;
+    color: white;
+}
+
+a:hover
+{
+    color: yellow;
 }
